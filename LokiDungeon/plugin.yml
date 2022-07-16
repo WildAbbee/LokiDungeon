@@ -1,0 +1,8 @@
+main: me.WildAbbee.EscapeEvent.EscapeEvent
+name: "LokisDungeon"
+version: 1.0
+author: WildAbbee
+commands:
+   lokireset:
+      permission: event.admin
+      description: Admin command.
